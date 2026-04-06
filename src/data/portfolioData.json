@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "name": "Farel",
+    "headline": "Merancang Sistem yang Kuat, Bukan Sekadar Tampilan yang Memikat.",
+    "subHeadline": "Unram Electrical Engineering '25 | Software Engineering alum. Currently a student of the craft, learning to navigate the depths of backend architecture and the grit of a well-optimized database. Just out here solving logic puzzles, one step at a time."
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Digitalizing Pesantren Syafi'iyah Darul Muhsin NW",
+      "problem": "Conventional administration was slowing down everything—from tracking students and teachers to handling tuition fees and registrations.",
+      "solution": "Designed an integrated management platform with a relational database to centralize academic flows, new student enrollment, and financial modules.",
+      "techStack": ["Python", "Django", "SQLite", "Bootstrap"],
+      "impact": "Shifted the entire workflow to digital, boosting financial accuracy and creating a much faster registration experience for new students."
+    },
+    {
+      "id": 2,
+      "title": "TXT to VCF Telegram Automator",
+      "problem": "Manually converting thousands of contacts from TXT to VCF was a massive bottleneck, and distributing those files was even more time-consuming.",
+      "solution": "Built a Python-based automation script that parses raw data, splits them into structured VCF files, and auto-deploys them via Telegram Bot API.",
+      "techStack": ["Python", "Tkinter", "Telegram API", "Regex"],
+      "impact": "Cut down conversion time by 95% and fully automated the distribution pipeline—no more manual file sharing."
+    }
+  ],
+  "skills": {
+    "backend": ["Node.js", "Python", "RESTful API"],
+    "database": ["PostgreSQL", "MySQL", "Database Design"],
+    "tools": ["Git", "Postman", "Linux"]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Active in",
+      "organization": "HME Unram (Electrical Student Association)",
+      "year": "2025 - Now",
+      "description": "I’m out here leveling up my soft skills-learning how to communicate, collab, and navigate the chaos of event planning. Just a student of the game, growing one project at a time."
+    }
+  ],
+  "contact": {
+    "github": "https://github.com/sevenrelzz",
+    "instagram": "https://instagram.com/sevenrelzz"
+  }
+}
