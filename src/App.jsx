@@ -38,8 +38,8 @@ export default function App() {
       {/* Navbar */}
       <nav className="fixed top-0 w-full bg-slate-900/90 backdrop-blur-md border-b border-slate-800 z-50">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between font-mono text-sm">
-          <span className="text-emerald-400 font-bold text-lg">BackendDev<span className="text-slate-500">_</span></span>
-          
+          <span className="text-emerald-400 font-bold text-lg">SevenRelz_</span>
+
           {/* Menu Desktop */}
           <div className="hidden sm:flex gap-6 text-slate-400">
             <a href="#about" className="hover:text-emerald-400 transition-colors">/about</a>
