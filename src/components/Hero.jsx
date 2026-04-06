@@ -32,7 +32,7 @@ export default function Hero({ data }) {
         </a>
         
         <a 
-          href={data.githubUrl || "#"} 
+          href={data.github || "https://github.com/sevenrelzz"}
           target="_blank" 
           rel="noreferrer"
           className="px-6 py-3 border border-slate-700 text-slate-300 rounded hover:bg-slate-800 transition-colors flex items-center gap-2"

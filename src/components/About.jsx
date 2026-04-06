@@ -25,7 +25,7 @@ export default function About() {
                 e.target.nextSibling.style.display = 'block';
               }}
             />
-            <span className="hidden absolute text-slate-500 font-mono text-sm">[Image Placeholder]</span>
+            <span className="hidden absolute text-slate-500 font-mono text-sm">[Orang ganteng]</span>
           </div>
         </div>
 
